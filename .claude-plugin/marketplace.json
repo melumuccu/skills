@@ -31,9 +31,11 @@
       "description": "Repository skills that from external sources",
       "name": "external-skills",
       "skills": [
+        "./docker-expert",
         "./find-skills",
         "./prompt-builder",
-        "./skill-creator"
+        "./skill-creator",
+        "./tdd"
       ],
       "source": "./.agents/skills",
       "strict": false
